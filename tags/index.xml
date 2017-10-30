@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wide-Open Datawatch</title>
-    <link>https://wideopen.bio/</link>
-    <description>Recent content on Wide-Open Datawatch</description>
+    <title>Tags on Wide-Open Datawatch</title>
+    <link>https://wideopen.bio/tags/</link>
+    <description>Recent content in Tags on Wide-Open Datawatch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 10:07:55 -0700</lastBuildDate>
     
-	<atom:link href="https://wideopen.bio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wideopen.bio/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Wide-Open</title>
-      <link>https://wideopen.bio/about/</link>
-      <pubDate>Tue, 20 Jun 2017 10:07:55 -0700</pubDate>
-      
-      <guid>https://wideopen.bio/about/</guid>
-      <description>See our PLoS Biology paper or source code for details. Project by Maxim Grechkin, Hoifung Poon and Bill Howe.</description>
-    </item>
-    
-    <item>
-      <title>SRA</title>
-      <link>https://wideopen.bio/sra/</link>
-      <pubDate>Mon, 19 Jun 2017 16:56:33 -0700</pubDate>
-      
-      <guid>https://wideopen.bio/sra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GEO</title>
-      <link>https://wideopen.bio/geo/</link>
-      <pubDate>Mon, 19 Jun 2017 16:51:03 -0700</pubDate>
-      
-      <guid>https://wideopen.bio/geo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
